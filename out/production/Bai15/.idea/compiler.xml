@@ -3,6 +3,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Bai15" options="--add-modules java.base" />
+      <module name="TH - ArrayIndexOutOfBoundsException" options="--add-modules java.base" />
+      <module name="TH - Debug Java" options="--add-modules java.base" />
+      <module name="TH - NumberFormatExceptionv" options="--add-modules java.base" />
     </option>
   </component>
 </project>
