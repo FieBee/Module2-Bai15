@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai15.iml" filepath="$PROJECT_DIR$/.idea/Bai15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH - ArrayIndexOutOfBoundsException/TH - ArrayIndexOutOfBoundsException.iml" filepath="$PROJECT_DIR$/TH - ArrayIndexOutOfBoundsException/TH - ArrayIndexOutOfBoundsException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH - Debug Java/TH - Debug Java.iml" filepath="$PROJECT_DIR$/TH - Debug Java/TH - Debug Java.iml" />
     </modules>
   </component>
 </project>
